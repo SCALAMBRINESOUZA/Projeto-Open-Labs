@@ -1,0 +1,36 @@
+O enunciado a seguir deve ser utilizado para responder às questões de números 4 e 5.
+O seguinte algoritmo, em português estruturado, expressa a manipulação da estrutura de
+dados M[10][10][10] de três dimensões. O símbolo “=” é representa a atribuição de valor.
+Para (i de 1 até 10, faça)
+[
+Para (j de 1 até 10, faça)
+[
+Para (k de 1 até 10, faça)
+[
+ Se ((i=j) e (j=k))
+[
+M[ i] [ j] [ k] = 1
+ ]
+Senão
+[
+M[ i] [ j] [ k] = 0
+ ] 
+ ]
+]
+]
+
+4. Considerando o algoritmo apresentado, pode-se afirmar que, após a sua execução, a
+soma dos valores de todas as posições de M será igual a:
+a) 1
+b) 10 alternativa correta
+c) 100
+d) 1000
+e) 10000
+
+5. No algoritmo apresentado, caso cada um dos loops, referentes às variáveis i, j e k, varie
+de 1 até 100, o tempo de execução do algoritmo, aproximadamente, será:
+a) 9 vezes maior
+b) 90 vezes maior
+c) 100 vezes maior
+d) 1000 vezes maior alternativa correta
+e) 9999 vezes maior. 
