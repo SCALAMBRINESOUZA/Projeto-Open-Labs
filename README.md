@@ -1,7 +1,7 @@
 <h1> Projeto-Open-Labs</h1>
 <ol>
   <li>Primeiro exercicio</li>
-    <p>O exercicio foi feito usando a linguagem C# com uso de props usanso o conceito de herança e polimorfismo como solicitado.</p>
+    <p>O exercicio foi feito usando a linguagem C# com uso de proptype trabalhando com o conceito de herança e polimorfismo como solicitado.</p>
   <li>Segundo exercicio</li>
     <p>Exercicio realizado usando a linguagem javascript, tentei ser o mais simples possivel, usando o conceito de arrow functions.</p>
   <li>Terceiro exercicio</li>
